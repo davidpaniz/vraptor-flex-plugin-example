@@ -4,7 +4,7 @@
   <!-- VRaptor factory registration -->
   <factories>
     <factory id="vraptor"
-     class="br.com.caelum.vraptor.flex.VRaptorServiceFactory" />
+     class="br.com.caelum.vraptor.flex.blazeds.VRaptorServiceFactory" />
   </factories>
 
 
